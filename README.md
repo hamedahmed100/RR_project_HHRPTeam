@@ -26,7 +26,7 @@ Follow these steps to set up your project environment:
 
 Using a virtual environment for your Python projects is recommended to manage dependencies efficiently:
 
-```bash
+
 # Navigate to your project directory
 cd path/to/your/project
 
@@ -39,16 +39,16 @@ python -m venv env
 # On macOS or Linux:
 source env/bin/activate
 
-## 3. Install Required Packages
+### 3. Install Required Packages
 
 Install all necessary Python packages using pip:
 
-```bash
+
 # Make sure your virtual environment is activated
 pip install numpy pandas scikit-learn matplotlib xgboost
 
 Running the Code
-1. Prepare Your Code
+### 1. Prepare Your Code
 Use a text editor to write your code and save it as a .py file, or use an IDE like PyCharm, Visual Studio Code, or Jupyter Notebook for interactive coding.
 
 If using Jupyter Notebook, you need to install and run it:
