@@ -1,6 +1,7 @@
 # RR_project_HHRPTeam
 reproducible-research Project for UW
 
+# Paper: Credit Risk Assessment based on Gradient Boosting Decision Tree
 # Machine Learning Project Setup Guide
 
 This guide will walk you through setting up your Python environment, installing necessary dependencies, and running the code for a machine learning project.
